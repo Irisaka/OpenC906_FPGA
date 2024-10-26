@@ -181,7 +181,7 @@ assign Q[16*WRAP_WIDTH-1:15*WRAP_WIDTH]  = ram15_dout[WRAP_WIDTH-1:0];
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram0_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram0_init.txt")
 ) ram0 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -193,7 +193,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram1_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram1_init.txt")
 ) ram1 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -205,7 +205,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram2_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram2_init.txt")
 ) ram2 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -217,7 +217,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram3_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram3_init.txt")
 ) ram3 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -229,7 +229,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram4_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram4_init.txt")
 ) ram4 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -241,7 +241,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram5_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram5_init.txt")
 ) ram5 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -253,7 +253,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram6_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram6_init.txt")
 ) ram6 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -265,7 +265,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram7_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram7_init.txt")
 ) ram7 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -277,7 +277,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram8_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram8_init.txt")
 ) ram8 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -289,7 +289,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram9_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram9_init.txt")
 ) ram9 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -301,7 +301,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram10_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram10_init.txt")
 ) ram10 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -313,7 +313,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram11_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram11_init.txt")
 ) ram11 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -325,7 +325,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram12_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram12_init.txt")
 ) ram12 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -337,7 +337,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram13_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram13_init.txt")
 ) ram13 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -349,7 +349,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram14_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram14_init.txt")
 ) ram14 (
   .PortAClk (CLK),
   .PortAAddr(addr),
@@ -361,7 +361,7 @@ init_ram #(
 init_ram #(
   .DATAWIDTH(WRAP_WIDTH),
   .ADDRWIDTH(ADDR_WIDTH),
-  .INIT_FILE("C:/OneDrive - zju.edu.cn/Olympus/RISCV/openc906/RAM_init_gen/ram15_init.txt")
+  .INIT_FILE("C:/Users/Administrator/Desktop/RISCV_FPGA/RAM_init_gen/ram15_init.txt")
 ) ram15 (
   .PortAClk (CLK),
   .PortAAddr(addr),
