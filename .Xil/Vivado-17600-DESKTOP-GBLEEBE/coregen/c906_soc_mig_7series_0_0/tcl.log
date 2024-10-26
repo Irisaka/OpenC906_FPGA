@@ -1,0 +1,13 @@
+MIG: 11:51:09 : Running customizer.xit
+MIG: 11:51:09 : ################# RUNNING MIG INTERACTIVE ###################
+MIG: 11:51:09 : Writing IN file for 'c906_soc_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2018.2/data/ip/xilinx/mig_7series_v4_1... instDirPath: c:/Users/Administrator/Desktop/RISCV_FPGA/openc906_FPGA/.Xil/Vivado-17600-DESKTOP-GBLEEBE/coregen/c906_soc_mig_7series_0_0
+MIG: 11:51:09 : synp_flow:  -- synthesis_mode: Other
+MIG: 11:51:09 : outputDirectory: c:/Users/Administrator/Desktop/RISCV_FPGA/openc906_FPGA/.Xil/Vivado-17600-DESKTOP-GBLEEBE/coregen/c906_soc_mig_7series_0_0/_tmp/
+MIG: 11:51:09 : vivado_mode: xpg_bd
+MIG: 11:51:09 :  locked false  
+MIG: 11:51:09 : HDL Language: Verilog
+MIG: 11:51:09 : compInfo: false
+MIG: 11:51:09 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_1/bin/nt64/mig.exe
+MIG: 11:51:09 : xilinx_path: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+MIG: 11:51:09 : I am in catch area
+MIG: 11:51:09 : Running C:/Xilinx/Vivado/2018.2/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_1/bin/nt64/mig.exe -cg_exc_inp c:/Users/Administrator/Desktop/RISCV_FPGA/openc906_FPGA/.Xil/Vivado-17600-DESKTOP-GBLEEBE/coregen/c906_soc_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/Administrator/Desktop/RISCV_FPGA/openc906_FPGA/.Xil/Vivado-17600-DESKTOP-GBLEEBE/coregen/c906_soc_mig_7series_0_0/xil_txt.out ... 
